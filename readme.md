@@ -19,4 +19,9 @@ Computation time ....
 Введите название файла
 >>>test.txt
 ```
-![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NS46SsDaTAk/0.jpg)](https://www.youtube.com/watch?v=NS46SsDaTAk)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z-mA1n3T_Z4/0.jpg)](https://www.youtube.com/watch?v=z-mA1n3T_Z4)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hF5w0CX8xbc/0.jpg)](https://www.youtube.com/watch?hF5w0CX8xbc)
