@@ -134,11 +134,14 @@ if __name__ == '__main__':
             method = threads
             break
     print('Введите название сохраняемого файла')
-    filename = input()+'.txt'
-
+    filename = input()
     start = time.time()
-    n_particles = 100
-    n_steps = 1000
+    print('Введите число частиц')
+    s = input()
+    n_particles = int(input())
+    print('Введите число шагов')
+    s = input()
+    n_steps = int(input())
     tau = 0.01
 
     method(n_particles, n_steps, filename, tau)
