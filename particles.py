@@ -138,10 +138,10 @@ if __name__ == '__main__':
     start = time.time()
     print('Введите число частиц')
     s = input()
-    n_particles = int(input())
+    n_particles = int(s)
     print('Введите число шагов')
     s = input()
-    n_steps = int(input())
+    n_steps = int(s)
     tau = 0.01
 
     method(n_particles, n_steps, filename, tau)
