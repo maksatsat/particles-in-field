@@ -19,6 +19,7 @@ Computation time ....
 Введите название файла
 >>>test.txt
 ```
+![Отчет.pdf](Отчет.pdf)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NS46SsDaTAk/0.jpg)](https://www.youtube.com/watch?v=NS46SsDaTAk)
 
